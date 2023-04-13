@@ -1,11 +1,11 @@
 .menu {
 	background-color: #D9E8FB;
-	flex: 0, 0, 80px;
+	flex: 0 0 80px;
 }
 
 .content {
 	background-color: #FBF4F0;
-	flex: 1, 1, 200px;
+	flex: 1 1 200px;
 }
 
 .section {
