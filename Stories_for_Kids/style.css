@@ -1,0 +1,26 @@
+.menu {
+	background-color: #D9E8FB;
+	flex: 0, 0, 80px;
+}
+
+.content {
+	background-color: #FBF4F0;
+	flex: 1, 1, 200px;
+}
+
+.section {
+	padding: 10px;
+}
+
+.container {
+	display: flex;
+}
+
+a {
+	display: inline-block;
+	padding: 5px;
+}
+
+h3 {
+	text-align: center;
+}
